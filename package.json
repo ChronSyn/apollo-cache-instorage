@@ -1,8 +1,8 @@
 {
-    "name": "@emico/apollo-cache-instorage",
+    "name": "@chronsyn/apollo-cache-instorage",
     "version": "0.4.2",
     "description": "Apollo Cache implementation that facilitates locally storing resources",
-    "author": "Emico and Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
+    "author": "ChronSyn and Emico and Lucas Constantino Silva <lucasconstantinosilva@gmail.com>",
     "license": "MIT",
     "main": "dist/index.js",
     "module": "dist/apollo-cache-instorage.esm.js",
@@ -30,7 +30,6 @@
     },
     "devDependencies": {
         "@babel/preset-react": "^7.7.4",
-        "@emico/eslint-config": "^1.0.6",
         "@types/jest": "^24.0.25",
         "@types/traverse": "^0.6.32",
         "apollo-client": "^2.6.8",
