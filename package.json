@@ -44,12 +44,6 @@
         "typescript": "^3.7.4"
     },
     "peerDependencies": {},
-    "eslint": {
-        "extends": "@emico/eslint-config"
-    },
-    "eslintConfig": {
-        "extends": "@emico/eslint-config"
-    },
     "prettier": {
         "semi": false,
         "singleQuote": true,
